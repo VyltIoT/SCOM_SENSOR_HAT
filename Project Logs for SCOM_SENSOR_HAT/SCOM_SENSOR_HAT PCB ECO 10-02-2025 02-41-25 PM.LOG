@@ -1,0 +1,54 @@
+Added Component: Designator=J7(6PX1R_M_STK20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(6PX1R_M_STK20)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Net: Name=NetJ7_5
+Added Pin To Net: NetName=NetJ7_6 Pin=J7-6
+Added Net: Name=NetJ7_6
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Net: Name=NetJ8_2
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Net: Name=NetJ8_3
+Added Pin To Net: NetName=NetJ8_4 Pin=J8-4
+Added Net: Name=NetJ8_4
+Added Pin To Net: NetName=NetJ8_5 Pin=J8-5
+Added Net: Name=NetJ8_5
+Added Pin To Net: NetName=NetJ8_6 Pin=J8-6
+Added Net: Name=NetJ8_6
+Added Class: Name=J7_Nets
+Added Class: Name=J8_Nets
+Add Differential Pair: Net(s) Not Found in Differential Pair ESP_USB : Positive Net [ESP_USB_P] & Negative Net [ESP_USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair STM_USB : Positive Net [STM_USB_P] & Negative Net [STM_USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair USB2 : Positive Net [USB2_P] & Negative Net [USB2_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair USB3 : Positive Net [USB3_P] & Negative Net [USB3_N] in current PCB document
+Added Member To Class: ClassName=POWER Member=Component J7 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J8 6PX1R_M
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5
+Added Rule: Name=Schematic Differential Pairs Routing_6
+Added Rule: Name=Schematic Differential Pairs Routing_7
+Added Rule: Name=Schematic Routing Via Style
+Added Rule: Name=Schematic Routing Via Style_1
+Added Rule: Name=Schematic Routing Via Style_2
+Added Rule: Name=Schematic Routing Via Style_3
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

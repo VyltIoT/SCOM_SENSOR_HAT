@@ -1,0 +1,54 @@
+Added Component: Designator=M?(E22-XXXT22S)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetM?_1 Pin=M?-1
+Added Net: Name=NetM?_1
+Added Pin To Net: NetName=NetM?_2 Pin=M?-2
+Added Net: Name=NetM?_2
+Added Pin To Net: NetName=NetM?_3 Pin=M?-3
+Added Net: Name=NetM?_3
+Added Pin To Net: NetName=NetM?_4 Pin=M?-4
+Added Net: Name=NetM?_4
+Added Pin To Net: NetName=NetM?_5 Pin=M?-5
+Added Net: Name=NetM?_5
+Added Pin To Net: NetName=NetM?_6 Pin=M?-6
+Added Net: Name=NetM?_6
+Added Pin To Net: NetName=NetM?_7 Pin=M?-7
+Added Net: Name=NetM?_7
+Added Pin To Net: NetName=NetM?_8 Pin=M?-8
+Added Net: Name=NetM?_8
+Added Pin To Net: NetName=NetM?_11 Pin=M?-11
+Added Net: Name=NetM?_11
+Added Pin To Net: NetName=NetM?_12 Pin=M?-12
+Added Net: Name=NetM?_12
+Added Pin To Net: NetName=NetM?_13 Pin=M?-13
+Added Net: Name=NetM?_13
+Added Pin To Net: NetName=NetM?_14 Pin=M?-14
+Added Net: Name=NetM?_14
+Added Pin To Net: NetName=NetM?_15 Pin=M?-15
+Added Net: Name=NetM?_15
+Added Pin To Net: NetName=NetM?_16 Pin=M?-16
+Added Net: Name=NetM?_16
+Added Pin To Net: NetName=NetM?_19 Pin=M?-19
+Added Net: Name=NetM?_19
+Added Pin To Net: NetName=NetM?_20 Pin=M?-20
+Added Net: Name=NetM?_20
+Added Pin To Net: NetName=NetM?_21 Pin=M?-21
+Added Net: Name=NetM?_21
+Added Pin To Net: NetName=NetM?_22 Pin=M?-22
+Added Net: Name=NetM?_22
+Added Pin To Net: NetName=NetM?_23 Pin=M?-23
+Added Net: Name=NetM?_23
+Added Pin To Net: NetName=NetM?_24 Pin=M?-24
+Added Net: Name=NetM?_24
+Added Pin To Net: NetName=NetM?_25 Pin=M?-25
+Added Net: Name=NetM?_25
+Added Pin To Net: NetName=NetM?_26 Pin=M?-26
+Added Net: Name=NetM?_26
+Added Class: Name=MODEM_PT1
+Added Class: Name=M?_Nets
+Add Differential Pair: Net(s) Not Found in Differential Pair ESP_USB : Positive Net [ESP_USB_P] & Negative Net [ESP_USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair STM_USB : Positive Net [STM_USB_P] & Negative Net [STM_USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair USB2 : Positive Net [USB2_P] & Negative Net [USB2_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair USB3 : Positive Net [USB3_P] & Negative Net [USB3_N] in current PCB document

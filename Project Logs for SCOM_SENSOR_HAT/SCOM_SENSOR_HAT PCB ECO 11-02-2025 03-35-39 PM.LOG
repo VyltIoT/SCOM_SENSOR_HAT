@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAP_D10_H16_P5 - Flat New Footprint=CAP_D10_H16_P5
+Add Differential Pair: Net(s) Not Found in Differential Pair ESP_USB : Positive Net [ESP_USB_P] & Negative Net [ESP_USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair STM_USB : Positive Net [STM_USB_P] & Negative Net [STM_USB_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair USB2 : Positive Net [USB2_P] & Negative Net [USB2_N] in current PCB document
+Add Differential Pair: Net(s) Not Found in Differential Pair USB3 : Positive Net [USB3_P] & Negative Net [USB3_N] in current PCB document

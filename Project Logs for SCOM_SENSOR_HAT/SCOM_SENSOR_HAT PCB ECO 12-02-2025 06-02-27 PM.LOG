@@ -1,0 +1,152 @@
+Added Component: Designator=J15(PCB-009)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(PCB-009)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J17(PCB-009)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J18(PCB-009)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-1
+Added Net: Name=NetJ15_1
+Added Pin To Net: NetName=NetJ15_2 Pin=J15-2
+Added Net: Name=NetJ15_2
+Added Pin To Net: NetName=NetJ15_3 Pin=J15-3
+Added Net: Name=NetJ15_3
+Added Pin To Net: NetName=NetJ15_4 Pin=J15-4
+Added Net: Name=NetJ15_4
+Added Pin To Net: NetName=NetJ15_5 Pin=J15-5
+Added Net: Name=NetJ15_5
+Added Pin To Net: NetName=NetJ15_6 Pin=J15-6
+Added Net: Name=NetJ15_6
+Added Pin To Net: NetName=NetJ15_7 Pin=J15-7
+Added Net: Name=NetJ15_7
+Added Pin To Net: NetName=NetJ15_8 Pin=J15-8
+Added Net: Name=NetJ15_8
+Added Pin To Net: NetName=NetJ15_S1 Pin=J15-S1
+Added Net: Name=NetJ15_S1
+Added Pin To Net: NetName=NetJ15_S2 Pin=J15-S2
+Added Net: Name=NetJ15_S2
+Added Pin To Net: NetName=NetJ15_S3 Pin=J15-S3
+Added Net: Name=NetJ15_S3
+Added Pin To Net: NetName=NetJ15_S4 Pin=J15-S4
+Added Net: Name=NetJ15_S4
+Added Pin To Net: NetName=NetJ15_S5 Pin=J15-S5
+Added Net: Name=NetJ15_S5
+Added Pin To Net: NetName=NetJ15_S6 Pin=J15-S6
+Added Net: Name=NetJ15_S6
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Net: Name=NetJ16_1
+Added Pin To Net: NetName=NetJ16_2 Pin=J16-2
+Added Net: Name=NetJ16_2
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-3
+Added Net: Name=NetJ16_3
+Added Pin To Net: NetName=NetJ16_4 Pin=J16-4
+Added Net: Name=NetJ16_4
+Added Pin To Net: NetName=NetJ16_5 Pin=J16-5
+Added Net: Name=NetJ16_5
+Added Pin To Net: NetName=NetJ16_6 Pin=J16-6
+Added Net: Name=NetJ16_6
+Added Pin To Net: NetName=NetJ16_7 Pin=J16-7
+Added Net: Name=NetJ16_7
+Added Pin To Net: NetName=NetJ16_8 Pin=J16-8
+Added Net: Name=NetJ16_8
+Added Pin To Net: NetName=NetJ16_S1 Pin=J16-S1
+Added Net: Name=NetJ16_S1
+Added Pin To Net: NetName=NetJ16_S2 Pin=J16-S2
+Added Net: Name=NetJ16_S2
+Added Pin To Net: NetName=NetJ16_S3 Pin=J16-S3
+Added Net: Name=NetJ16_S3
+Added Pin To Net: NetName=NetJ16_S4 Pin=J16-S4
+Added Net: Name=NetJ16_S4
+Added Pin To Net: NetName=NetJ16_S5 Pin=J16-S5
+Added Net: Name=NetJ16_S5
+Added Pin To Net: NetName=NetJ16_S6 Pin=J16-S6
+Added Net: Name=NetJ16_S6
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Net: Name=NetJ17_1
+Added Pin To Net: NetName=NetJ17_2 Pin=J17-2
+Added Net: Name=NetJ17_2
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-3
+Added Net: Name=NetJ17_3
+Added Pin To Net: NetName=NetJ17_4 Pin=J17-4
+Added Net: Name=NetJ17_4
+Added Pin To Net: NetName=NetJ17_5 Pin=J17-5
+Added Net: Name=NetJ17_5
+Added Pin To Net: NetName=NetJ17_6 Pin=J17-6
+Added Net: Name=NetJ17_6
+Added Pin To Net: NetName=NetJ17_7 Pin=J17-7
+Added Net: Name=NetJ17_7
+Added Pin To Net: NetName=NetJ17_8 Pin=J17-8
+Added Net: Name=NetJ17_8
+Added Pin To Net: NetName=NetJ17_S1 Pin=J17-S1
+Added Net: Name=NetJ17_S1
+Added Pin To Net: NetName=NetJ17_S2 Pin=J17-S2
+Added Net: Name=NetJ17_S2
+Added Pin To Net: NetName=NetJ17_S3 Pin=J17-S3
+Added Net: Name=NetJ17_S3
+Added Pin To Net: NetName=NetJ17_S4 Pin=J17-S4
+Added Net: Name=NetJ17_S4
+Added Pin To Net: NetName=NetJ17_S5 Pin=J17-S5
+Added Net: Name=NetJ17_S5
+Added Pin To Net: NetName=NetJ17_S6 Pin=J17-S6
+Added Net: Name=NetJ17_S6
+Added Pin To Net: NetName=NetJ18_1 Pin=J18-1
+Added Net: Name=NetJ18_1
+Added Pin To Net: NetName=NetJ18_2 Pin=J18-2
+Added Net: Name=NetJ18_2
+Added Pin To Net: NetName=NetJ18_3 Pin=J18-3
+Added Net: Name=NetJ18_3
+Added Pin To Net: NetName=NetJ18_4 Pin=J18-4
+Added Net: Name=NetJ18_4
+Added Pin To Net: NetName=NetJ18_5 Pin=J18-5
+Added Net: Name=NetJ18_5
+Added Pin To Net: NetName=NetJ18_6 Pin=J18-6
+Added Net: Name=NetJ18_6
+Added Pin To Net: NetName=NetJ18_7 Pin=J18-7
+Added Net: Name=NetJ18_7
+Added Pin To Net: NetName=NetJ18_8 Pin=J18-8
+Added Net: Name=NetJ18_8
+Added Pin To Net: NetName=NetJ18_S1 Pin=J18-S1
+Added Net: Name=NetJ18_S1
+Added Pin To Net: NetName=NetJ18_S2 Pin=J18-S2
+Added Net: Name=NetJ18_S2
+Added Pin To Net: NetName=NetJ18_S3 Pin=J18-S3
+Added Net: Name=NetJ18_S3
+Added Pin To Net: NetName=NetJ18_S4 Pin=J18-S4
+Added Net: Name=NetJ18_S4
+Added Pin To Net: NetName=NetJ18_S5 Pin=J18-S5
+Added Net: Name=NetJ18_S5
+Added Pin To Net: NetName=NetJ18_S6 Pin=J18-S6
+Added Net: Name=NetJ18_S6
+Added Class: Name=J15_Nets
+Added Class: Name=J16_Nets
+Added Class: Name=J17_Nets
+Added Class: Name=J18_Nets
+Added Member To Class: ClassName=RS485 Member=Component J15 ERP_148-3
+Added Member To Class: ClassName=RS485 Member=Component J16 ERP_148-3
+Added Member To Class: ClassName=CAN Member=Component J17 ERP_148-3
+Added Member To Class: ClassName=CAN Member=Component J18 ERP_148-3

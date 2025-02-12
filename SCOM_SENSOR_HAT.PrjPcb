@@ -226,7 +226,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -260,7 +260,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -277,7 +277,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -285,7 +285,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SYMXFTXT
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Free Documents\Gerber\VYLT_IOT_HAT_DEMO.DRR
@@ -357,15 +357,15 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Project
-Value=IOT0-MODULE
+Value=SCOM HAT
 
 [Parameter2]
-Name=Rev
-Value=1.0
-
-[Parameter3]
 Name=SheetTotal
 Value=8
+
+[Parameter3]
+Name=Rev
+Value=1.0
 
 [Configuration1]
 Name=Sources

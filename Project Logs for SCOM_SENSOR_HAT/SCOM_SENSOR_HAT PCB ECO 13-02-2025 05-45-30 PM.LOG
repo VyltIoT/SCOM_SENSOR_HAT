@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_6
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_8
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_10
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_12
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_14
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_16
+Added Pin To Net: NetName=CAN_INT Pin=J19-6
+Added Pin To Net: NetName=CAN_SCK Pin=J19-8
+Added Pin To Net: NetName=CAN_MOSI Pin=J19-10
+Added Pin To Net: NetName=CAN_MISO Pin=J19-12
+Added Pin To Net: NetName=CAN_CS Pin=J19-14
+Added Pin To Net: NetName=CAN_NRST Pin=J19-16
+Added Member To Class: ClassName=J19_Nets Member=Wire CAN_CS
+Added Member To Class: ClassName=J19_Nets Member=Wire CAN_INT
+Added Member To Class: ClassName=J19_Nets Member=Wire CAN_MISO
+Added Member To Class: ClassName=J19_Nets Member=Wire CAN_MOSI
+Added Member To Class: ClassName=J19_Nets Member=Wire CAN_NRST
+Added Member To Class: ClassName=J19_Nets Member=Wire CAN_SCK

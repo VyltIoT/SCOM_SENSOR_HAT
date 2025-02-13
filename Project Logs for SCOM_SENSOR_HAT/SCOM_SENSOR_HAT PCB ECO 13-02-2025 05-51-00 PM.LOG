@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_18
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_19
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_20
+Added Pin To Net: NetName=485_TX Pin=J19-18
+Added Pin To Net: NetName=485_RX Pin=J19-19
+Added Pin To Net: NetName=485_TE Pin=J19-20
+Added Member To Class: ClassName=J19_Nets Member=Wire 485_RX
+Added Member To Class: ClassName=J19_Nets Member=Wire 485_TE
+Added Member To Class: ClassName=J19_Nets Member=Wire 485_TX

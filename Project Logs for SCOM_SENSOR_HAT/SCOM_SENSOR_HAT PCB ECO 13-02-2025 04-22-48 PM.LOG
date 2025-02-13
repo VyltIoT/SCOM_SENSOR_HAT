@@ -1,0 +1,46 @@
+Added Component: Designator=J19(20PX2R_Male_THT_Shrouded)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ19_1 Pin=J19-1
+Added Net: Name=NetJ19_1
+Added Pin To Net: NetName=NetJ19_2 Pin=J19-2
+Added Net: Name=NetJ19_2
+Added Pin To Net: NetName=NetJ19_3 Pin=J19-3
+Added Net: Name=NetJ19_3
+Added Pin To Net: NetName=NetJ19_4 Pin=J19-4
+Added Net: Name=NetJ19_4
+Added Pin To Net: NetName=NetJ19_5 Pin=J19-5
+Added Net: Name=NetJ19_5
+Added Pin To Net: NetName=NetJ19_6 Pin=J19-6
+Added Net: Name=NetJ19_6
+Added Pin To Net: NetName=NetJ19_7 Pin=J19-7
+Added Net: Name=NetJ19_7
+Added Pin To Net: NetName=NetJ19_8 Pin=J19-8
+Added Net: Name=NetJ19_8
+Added Pin To Net: NetName=NetJ19_9 Pin=J19-9
+Added Net: Name=NetJ19_9
+Added Pin To Net: NetName=NetJ19_10 Pin=J19-10
+Added Net: Name=NetJ19_10
+Added Pin To Net: NetName=NetJ19_11 Pin=J19-11
+Added Net: Name=NetJ19_11
+Added Pin To Net: NetName=NetJ19_12 Pin=J19-12
+Added Net: Name=NetJ19_12
+Added Pin To Net: NetName=NetJ19_13 Pin=J19-13
+Added Net: Name=NetJ19_13
+Added Pin To Net: NetName=NetJ19_14 Pin=J19-14
+Added Net: Name=NetJ19_14
+Added Pin To Net: NetName=NetJ19_15 Pin=J19-15
+Added Net: Name=NetJ19_15
+Added Pin To Net: NetName=NetJ19_16 Pin=J19-16
+Added Net: Name=NetJ19_16
+Added Pin To Net: NetName=NetJ19_17 Pin=J19-17
+Added Net: Name=NetJ19_17
+Added Pin To Net: NetName=NetJ19_18 Pin=J19-18
+Added Net: Name=NetJ19_18
+Added Pin To Net: NetName=NetJ19_19 Pin=J19-19
+Added Net: Name=NetJ19_19
+Added Pin To Net: NetName=NetJ19_20 Pin=J19-20
+Added Net: Name=NetJ19_20
+Added Class: Name=J19_Nets
+Added Member To Class: ClassName=POWER Member=Component J19 20PX2R_M

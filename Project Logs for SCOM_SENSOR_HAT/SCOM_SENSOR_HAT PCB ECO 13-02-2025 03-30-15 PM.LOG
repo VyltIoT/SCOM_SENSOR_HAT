@@ -1,0 +1,55 @@
+Removed Member From Class: ClassName=J15_Nets Member=NetJ15_3
+Removed Member From Class: ClassName=J15_Nets Member=NetJ15_6
+Removed Member From Class: ClassName=J15_Nets Member=NetJ15_7
+Removed Member From Class: ClassName=J15_Nets Member=NetJ15_8
+Removed Member From Class: ClassName=J15_Nets Member=NetJ15_S4
+Removed Member From Class: ClassName=J16_Nets Member=NetJ16_3
+Removed Member From Class: ClassName=J16_Nets Member=NetJ16_6
+Removed Member From Class: ClassName=J16_Nets Member=NetJ16_7
+Removed Member From Class: ClassName=J16_Nets Member=NetJ16_8
+Removed Member From Class: ClassName=J16_Nets Member=NetJ16_S2
+Change component parameters: Designator = "J15" ("J15"); Footprint = "PCB-009"; UniqueID = "\PZGXLSJF" ("\PZGXLSJF")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "PCB-009"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J16" ("J16"); Footprint = "PCB-009"; UniqueID = "\MQVIJZZY" ("\MQVIJZZY")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "PCB-009"; VariantName = "[No Variations]"
+Added Component: Designator=C22(VY1222M43Y5UC63V0)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Y Class "; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=485_A Pin=J15-3
+Added Pin To Net: NetName=485_B Pin=J15-6
+Added Pin To Net: NetName=12V0 Pin=J15-7
+Added Pin To Net: NetName=GND Pin=J15-8
+Added Pin To Net: NetName=485_A Pin=J16-3
+Added Pin To Net: NetName=485_B Pin=J16-6
+Added Pin To Net: NetName=12V0 Pin=J16-7
+Added Pin To Net: NetName=GND Pin=J16-8
+Added Pin To Net: NetName=NetJ15_S1 Pin=J16-S2
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=J15-S4
+Added Net: Name=NetC22_1
+Added Class: Name=C22_Nets
+Added Member To Class: ClassName=RS485 Member=Component C22 VY1
+Added Member To Class: ClassName=J15_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J16_Nets Member=Wire 12V0
+Added Member To Class: ClassName=J15_Nets Member=Wire 485_A
+Added Member To Class: ClassName=J16_Nets Member=Wire 485_A
+Added Member To Class: ClassName=J15_Nets Member=Wire 485_B
+Added Member To Class: ClassName=J16_Nets Member=Wire 485_B
+Added Member To Class: ClassName=J15_Nets Member=Wire GND
+Added Member To Class: ClassName=J16_Nets Member=Wire GND
+Added Member To Class: ClassName=J15_Nets Member=Wire NetC22_1
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ15_S1

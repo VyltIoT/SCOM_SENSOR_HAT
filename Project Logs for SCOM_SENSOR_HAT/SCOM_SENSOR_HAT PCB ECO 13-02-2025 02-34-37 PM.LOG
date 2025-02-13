@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC22_1 Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C22-2
+Removed Pin From Net: NetName=NetC21_1 Pin=J17-S2
+Removed Pin From Net: NetName=NetC21_1 Pin=J17-S3
+Removed Pin From Net: NetName=NetC21_1 Pin=J17-S4
+Removed Pin From Net: NetName=NetC21_1 Pin=J17-S5
+Removed Pin From Net: NetName=NetC21_1 Pin=J17-S6
+Removed Member From Class: ClassName=CAN Member=C22
+Removed Member From Class: ClassName=J18_Nets Member=NetC22_1
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_7
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_1
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_2
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_7
+Added Pin To Net: NetName=GND Pin=J17-7
+Added Pin To Net: NetName=CAN_P Pin=J18-1
+Added Pin To Net: NetName=CAN_N Pin=J18-2
+Added Pin To Net: NetName=GND Pin=J18-7
+Change Net Name : Old Net Name=NetC22_1 New Net Name=NetJ18_S1
+Added Pin To Net: NetName=NetJ17_S2 Pin=J17-S2
+Added Net: Name=NetJ17_S2
+Added Pin To Net: NetName=NetJ17_S3 Pin=J17-S3
+Added Net: Name=NetJ17_S3
+Added Pin To Net: NetName=NetJ17_S4 Pin=J17-S4
+Added Net: Name=NetJ17_S4
+Added Pin To Net: NetName=NetJ17_S5 Pin=J17-S5
+Added Net: Name=NetJ17_S5
+Added Pin To Net: NetName=NetJ17_S6 Pin=J17-S6
+Added Net: Name=NetJ17_S6
+Added Member To Class: ClassName=J18_Nets Member=Wire CAN_N
+Added Member To Class: ClassName=J18_Nets Member=Wire CAN_P
+Added Member To Class: ClassName=J17_Nets Member=Wire GND
+Added Member To Class: ClassName=J18_Nets Member=Wire GND
+Added Member To Class: ClassName=J17_Nets Member=Wire NetJ17_S2
+Added Member To Class: ClassName=J17_Nets Member=Wire NetJ17_S3
+Added Member To Class: ClassName=J17_Nets Member=Wire NetJ17_S4
+Added Member To Class: ClassName=J17_Nets Member=Wire NetJ17_S5
+Added Member To Class: ClassName=J17_Nets Member=Wire NetJ17_S6
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ18_S1

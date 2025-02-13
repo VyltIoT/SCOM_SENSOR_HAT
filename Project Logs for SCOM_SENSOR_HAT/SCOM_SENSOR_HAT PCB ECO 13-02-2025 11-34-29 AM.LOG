@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=J2_Nets Member=NetJ2_3
+Removed Member From Class: ClassName=J2_Nets Member=NetJ2_4
+Removed Member From Class: ClassName=J3_Nets Member=NetJ3_3
+Removed Member From Class: ClassName=J3_Nets Member=NetJ3_4
+Removed Member From Class: ClassName=J7_Nets Member=NetJ7_6
+Removed Member From Class: ClassName=J8_Nets Member=NetJ8_6
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Member To Class: ClassName=J2_Nets Member=Wire GND
+Added Member To Class: ClassName=J3_Nets Member=Wire GND
+Added Member To Class: ClassName=J7_Nets Member=Wire GND
+Added Member To Class: ClassName=J8_Nets Member=Wire GND

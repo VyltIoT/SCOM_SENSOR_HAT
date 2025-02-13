@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_1
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_2
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_S1
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_S2
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_S3
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_S4
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_S5
+Removed Member From Class: ClassName=J17_Nets Member=NetJ17_S6
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S1
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S2
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S3
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S4
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S5
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S6
+Change component parameters: Designator = "J17" ("J17"); Footprint = "PCB-009"; UniqueID = "\DBPVZAKZ" ("\DBPVZAKZ")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "PCB-009"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J18" ("J18"); Footprint = "PCB-009"; UniqueID = "\XIOGLMXH" ("\XIOGLMXH")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Robu"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1883509"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "PCB-009"; VariantName = "[No Variations]"
+Added Component: Designator=C21(VY1222M43Y5UC63V0)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Y Class "; VariantName = "[No Variations]"
+Added Component: Designator=C22(VY1222M43Y5UC63V0)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Y Class "; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=CANH Pin=J17-1
+Added Pin To Net: NetName=CANL Pin=J17-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=J17-S1
+Added Pin To Net: NetName=NetC21_1 Pin=J17-S2
+Added Pin To Net: NetName=NetC21_1 Pin=J17-S3
+Added Pin To Net: NetName=NetC21_1 Pin=J17-S4
+Added Pin To Net: NetName=NetC21_1 Pin=J17-S5
+Added Pin To Net: NetName=NetC21_1 Pin=J17-S6
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=J18-S1
+Added Pin To Net: NetName=NetC22_1 Pin=J18-S2
+Added Pin To Net: NetName=NetC22_1 Pin=J18-S3
+Added Pin To Net: NetName=NetC22_1 Pin=J18-S4
+Added Pin To Net: NetName=NetC22_1 Pin=J18-S5
+Added Pin To Net: NetName=NetC22_1 Pin=J18-S6
+Added Net: Name=NetC22_1
+Added Class: Name=C21_Nets
+Added Class: Name=C22_Nets
+Add Differential Pair: Number of nets in differential pair CANH is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CANL is 1 instead of 2
+Added Member To Class: ClassName=CAN Member=Component C21 VY1
+Added Member To Class: ClassName=CAN Member=Component C22 VY1
+Added Member To Class: ClassName=J17_Nets Member=Wire CANH
+Added Member To Class: ClassName=J17_Nets Member=Wire CANL
+Added Member To Class: ClassName=J17_Nets Member=Wire NetC21_1
+Added Member To Class: ClassName=J18_Nets Member=Wire NetC22_1

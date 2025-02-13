@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=J18_Nets Member=NetC?_1
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC21_1
+Change Net Color : Old Net Color=Black New Net Color=Default
+Added Class: Name=C21_Nets
+Added Member To Class: ClassName=J18_Nets Member=Wire NetC21_1

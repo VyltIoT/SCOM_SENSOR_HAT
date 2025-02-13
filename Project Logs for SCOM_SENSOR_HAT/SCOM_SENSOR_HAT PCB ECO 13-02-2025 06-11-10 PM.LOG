@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_7
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_9
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_11
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_13
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_15
+Removed Member From Class: ClassName=J19_Nets Member=NetJ19_17
+Added Pin To Net: NetName=LORA_RST Pin=J19-7
+Added Pin To Net: NetName=LORA_AUX Pin=J19-9
+Added Pin To Net: NetName=LORA_TXD Pin=J19-11
+Added Pin To Net: NetName=LORA_RXD Pin=J19-13
+Added Pin To Net: NetName=LORA_M1 Pin=J19-15
+Added Pin To Net: NetName=LORA_M0 Pin=J19-17
+Added Member To Class: ClassName=J19_Nets Member=Wire LORA_AUX
+Added Member To Class: ClassName=J19_Nets Member=Wire LORA_M0
+Added Member To Class: ClassName=J19_Nets Member=Wire LORA_M1
+Added Member To Class: ClassName=J19_Nets Member=Wire LORA_RST
+Added Member To Class: ClassName=J19_Nets Member=Wire LORA_RXD
+Added Member To Class: ClassName=J19_Nets Member=Wire LORA_TXD

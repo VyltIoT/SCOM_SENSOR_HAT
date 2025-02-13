@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=J17-S1
+Removed Pin From Net: NetName=NetC?_1 Pin=J18-S2
+Removed Member From Class: ClassName=J17_Nets Member=NetC?_1
+Removed Member From Class: ClassName=J18_Nets Member=NetJ18_S3
+Added Pin To Net: NetName=NetC?_1 Pin=J18-S3
+Added Pin To Net: NetName=NetJ17_S1 Pin=J17-S1
+Added Pin To Net: NetName=NetJ17_S1 Pin=J18-S2
+Added Net: Name=NetJ17_S1
+Added Member To Class: ClassName=J17_Nets Member=Wire NetJ17_S1
+Added Member To Class: ClassName=J18_Nets Member=Wire NetJ17_S1

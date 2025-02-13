@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=J15_Nets Member=485_A
+Removed Member From Class: ClassName=J16_Nets Member=485_A
+Removed Member From Class: ClassName=R11_Nets Member=485_A
+Removed Member From Class: ClassName=R14_Nets Member=485_A
+Removed Member From Class: ClassName=U2_Nets Member=485_A
+Removed Member From Class: ClassName=J15_Nets Member=485_B
+Removed Member From Class: ClassName=J16_Nets Member=485_B
+Removed Member From Class: ClassName=R14_Nets Member=485_B
+Removed Member From Class: ClassName=R15_Nets Member=485_B
+Removed Member From Class: ClassName=U2_Nets Member=485_B
+Change Net Name : Old Net Name=485_A New Net Name=485_P
+Change Net Name : Old Net Name=485_B New Net Name=485_N
+Added Differential Pair: Name=485
+Added Member To Class: ClassName=J15_Nets Member=Wire 485_N
+Added Member To Class: ClassName=J16_Nets Member=Wire 485_N
+Added Member To Class: ClassName=R14_Nets Member=Wire 485_N
+Added Member To Class: ClassName=R15_Nets Member=Wire 485_N
+Added Member To Class: ClassName=U2_Nets Member=Wire 485_N
+Added Member To Class: ClassName=J15_Nets Member=Wire 485_P
+Added Member To Class: ClassName=J16_Nets Member=Wire 485_P
+Added Member To Class: ClassName=R11_Nets Member=Wire 485_P
+Added Member To Class: ClassName=R14_Nets Member=Wire 485_P
+Added Member To Class: ClassName=U2_Nets Member=Wire 485_P
+Added Rule: Name=Schematic Differential Pairs Routing_1
+Added Class: Name=485_120R

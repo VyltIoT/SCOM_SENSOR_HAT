@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V0 Pin=R9-1
+Removed Pin From Net: NetName=NetQ3_3 Pin=R9-2
+Removed Member From Class: ClassName=RS485 Member=R9

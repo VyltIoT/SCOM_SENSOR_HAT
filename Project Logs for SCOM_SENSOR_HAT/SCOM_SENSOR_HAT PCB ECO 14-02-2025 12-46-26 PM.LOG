@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IOTCK Pin=J9-9
+Removed Pin From Net: NetName=IOTDO Pin=J9-11
+Removed Member From Class: ClassName=J9_Nets Member=IOTCK
+Added Pin To Net: NetName=IOTDO Pin=J9-9
+Added Pin To Net: NetName=NetJ9_11 Pin=J9-11
+Added Net: Name=NetJ9_11
+Added Member To Class: ClassName=J9_Nets Member=Wire NetJ9_11

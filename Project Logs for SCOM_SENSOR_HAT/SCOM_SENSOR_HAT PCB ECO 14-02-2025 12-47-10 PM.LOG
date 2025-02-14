@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IOTDI Pin=J9-13
+Removed Pin From Net: NetName=IOTMS Pin=J9-15
+Added Pin To Net: NetName=IOTMS Pin=J9-13
+Added Pin To Net: NetName=IOTDI Pin=J9-15

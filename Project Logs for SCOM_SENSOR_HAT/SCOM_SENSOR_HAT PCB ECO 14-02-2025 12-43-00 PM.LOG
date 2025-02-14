@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_1
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_3
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_5
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_7
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_9
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_11
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_13
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_15
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_17
+Removed Member From Class: ClassName=J9_Nets Member=NetJ9_19
+Added Pin To Net: NetName=IO13 Pin=J9-1
+Added Pin To Net: NetName=IO21 Pin=J9-3
+Added Pin To Net: NetName=IO14 Pin=J9-5
+Added Pin To Net: NetName=IO38 Pin=J9-7
+Added Pin To Net: NetName=IOTCK Pin=J9-9
+Added Pin To Net: NetName=IOTDO Pin=J9-11
+Added Pin To Net: NetName=IOTDI Pin=J9-13
+Added Pin To Net: NetName=IOTMS Pin=J9-15
+Added Pin To Net: NetName=IO2 Pin=J9-17
+Added Pin To Net: NetName=IO1 Pin=J9-19
+Added Member To Class: ClassName=J9_Nets Member=Wire IO1
+Added Member To Class: ClassName=J9_Nets Member=Wire IO2
+Added Member To Class: ClassName=J9_Nets Member=Wire IO13
+Added Member To Class: ClassName=J9_Nets Member=Wire IO14
+Added Member To Class: ClassName=J9_Nets Member=Wire IO21
+Added Member To Class: ClassName=J9_Nets Member=Wire IO38
+Added Member To Class: ClassName=J9_Nets Member=Wire IOTCK
+Added Member To Class: ClassName=J9_Nets Member=Wire IOTDI
+Added Member To Class: ClassName=J9_Nets Member=Wire IOTDO
+Added Member To Class: ClassName=J9_Nets Member=Wire IOTMS

@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [SCOM_SENSOR_HAT.PcbDoc]
+   Generated File[SCOM_SENSOR_HAT.GTO]
+   Generated File[SCOM_SENSOR_HAT.GTP]
+   Generated File[SCOM_SENSOR_HAT.GTS]
+   Generated File[SCOM_SENSOR_HAT.GTL]
+   Generated File[SCOM_SENSOR_HAT.GBL]
+   Generated File[SCOM_SENSOR_HAT.GBS]
+   Generated File[SCOM_SENSOR_HAT.GBP]
+   Generated File[SCOM_SENSOR_HAT.GBO]
+   Generated File[SCOM_SENSOR_HAT.GM1]
+   Generated File[SCOM_SENSOR_HAT.GM2]
+   Generated File[SCOM_SENSOR_HAT.GM3]
+   Generated File[SCOM_SENSOR_HAT.GKO]
+   Generated File[SCOM_SENSOR_HAT.GPT]
+   Generated File[SCOM_SENSOR_HAT.GPB]
+   Generated File[SCOM_SENSOR_HAT.GM]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 01:04:57 PM On 18-02-2025

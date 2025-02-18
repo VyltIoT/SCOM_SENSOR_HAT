@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J15-S6
+Added Pin To Net: NetName=NetJ15_S6 Pin=J15-S6
+Added Net: Name=NetJ15_S6
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_S6

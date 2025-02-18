@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 03:33:17 PM On 17-02-2025
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [SCOM_SENSOR_HAT.PcbDoc]
+   Generated File[Pick Place for SCOM_SENSOR_HAT.txt]
+   Generated File[Pick Place for SCOM_SENSOR_HAT.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 03:33:18 PM On 17-02-2025

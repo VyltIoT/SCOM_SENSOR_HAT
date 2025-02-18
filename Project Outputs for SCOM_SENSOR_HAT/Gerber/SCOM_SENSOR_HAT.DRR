@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SCOM_SENSOR_HAT.PcbDoc   18-02-2025  01:04:57 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : SCOM_SENSOR_HAT.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             2         PTH        0.04inch (1.05mm)
+T2      20mil (0.5mm)                                             Round             18        PTH        9.58inch (243.35mm)
+T3      30mil (0.762mm)                                           Round             2         PTH        0.19inch (4.88mm)
+T4      32mil (0.8mm)                                             Round             6         PTH        3.95inch (100.38mm)
+T5      32mil (0.81mm)                                            Round             48        PTH        8.25inch (209.58mm)
+T6      33mil (0.85mm)                                            Round             4         PTH        3.79inch (96.34mm)
+T7      35mil (0.9mm)                                             Round             32        PTH        5.16inch (130.97mm)
+T8      40mil (1.02mm)                                            Round             4         PTH        2.02inch (51.24mm)
+T9      43mil (1.1mm)                                             Round             40        PTH        6.56inch (166.65mm)
+T10     63mil (1.6mm)                                             Round             16        PTH        5.26inch (133.52mm)
+T11     125mil (3.17mm)                                           Round             8         PTH        2.84inch (72.02mm)
+T12     39mil (1mm)                                               Round             1         NPTH       0.00inch (0.00mm)
+T13     51mil (1.3mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              182
+
+Total Processing Time (hh:mm:ss) : 00:00:00

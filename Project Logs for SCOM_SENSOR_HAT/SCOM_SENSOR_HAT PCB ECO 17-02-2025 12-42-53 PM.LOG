@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=C22_Nets Member=NetC22_2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Member To Class: ClassName=C22_Nets Member=Wire GND

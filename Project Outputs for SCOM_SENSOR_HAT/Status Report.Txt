@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 02:20:21 PM On 20-02-2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [SCOM_SENSOR_HAT.PrjPcb]
+   Generated File[//vylt-my.sharepoint.com/personal/satyam_vylt_in/Documents/Altium_Designs/SCOM_SENSOR_HAT/Project Outputs for SCOM_SENSOR_HAT/BOM/Bill of Materials-SCOM_SENSOR_HAT.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 02:20:25 PM On 20-02-2025

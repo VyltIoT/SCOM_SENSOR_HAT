@@ -1,0 +1,81 @@
+Altium Designer Pick and Place Locations
+C:\Users\Satyam.DESKTOP-S570OAU\OneDrive - Vylt Technologies Private Limited\Altium_Designs\SCOM_SENSOR_HAT\Project Outputs for SCOM_SENSOR_HAT\Pick n Place\Pick Place for SCOM_SENSOR_HAT.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20-02-25
+Time:       14:21
+Revision:   3be586959e5180ca176c1956ccddf1296b2eeb08
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Footprint                Center-X(mm) Center-Y(mm) Rotation Description                                                   
+C4         TopLayer    CAP_D10_H16_P5_-_Flat    59.9900      31.5000      0        "Electrolytic Capacitor Through Hole D10 P5.0"                
+C5         TopLayer    CAPC2012X13L             56.4400      23.5000      180      "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                 
+C6         TopLayer    CAPC2012X13L             56.4400      21.5000      180      "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C7         TopLayer    CAPC2012X13L             26.1507      58.2137      0        "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                 
+C8         TopLayer    CAP_D10_H16_P5_-_Flat    16.5000      62.5000      180      "Electrolytic Capacitor Through Hole D10 P5.0"                
+C9         TopLayer    CAPC2012X13L             21.1484      57.1870      270      "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                 
+C10        TopLayer    CAPC2012X13L             22.9737      57.1870      270      "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C11        TopLayer    CAP_D10_H16_P5_-_Flat    45.9059      67.0000      270      "Electrolytic Capacitor Through Hole D10 P5.0"                
+C12        TopLayer    CAPC2012X13L             50.4879      68.4500      270      "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                 
+C13        TopLayer    CAPC2012X13L             53.3895      68.4500      270      "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C14        TopLayer    CAPC2012X13L             99.5000      37.5000      180      "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C15        TopLayer    CAPC2012X13L             67.5820      72.5252      90       "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                 
+C16        TopLayer    CAPC2012X13L             69.3450      72.5252      90       "1uF 105 0805 (2012 metric) 50V X7R MLCC SMD"                 
+C17        TopLayer    CAPC2012X13L             105.4000     63.5458      90       "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C18        TopLayer    CAPC2012X13L             96.4971      73.5000      90       "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C19        TopLayer    CAPC2012X13L             90.7962      66.8777      90       "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+C20        TopLayer    CAPC2012X13L             90.7962      60.0780      270      "Chip Capacitor, 2-Leads, Body 2.00x1.25mm, IPC High Density" 
+D1         TopLayer    DIOM6959X26L             27.4587      79.6739      180      ""                                                            
+J1         BottomLayer 6PX1R_M_STK20            8.0000       25.0000      90       "6PX1R Male Header"                                           
+J2         BottomLayer 6PX1R_M_STK20            8.0000       41.0000      90       "6PX1R Male Header"                                           
+J3         BottomLayer 6PX1R_M_STK20            11.0000      41.0000      90       "6PX1R Male Header"                                           
+J4         BottomLayer 6PX1R_M_STK20            11.0000      25.0000      90       "6PX1R Male Header"                                           
+J5         BottomLayer 6PX1R_M_STK20            47.0000      25.0000      90       "6PX1R Male Header"                                           
+J6         BottomLayer 6PX1R_M_STK20            47.0000      41.0000      90       "6PX1R Male Header"                                           
+J7         BottomLayer 6PX1R_M_STK20            50.0000      41.0000      90       "6PX1R Male Header"                                           
+J8         BottomLayer 6PX1R_M_STK20            50.0000      25.0000      90       "6PX1R Male Header"                                           
+J9         TopLayer    20PX2R_Male_THT_Shrouded 29.0000      25.0000      270      "Connector Header Surface Mount 20 position 0.100" (2.54mm)"  
+J12        TopLayer    2PX1R                    11.0000      54.7700      90       2PX1R                                                         
+J13        TopLayer    2PX1R                    55.0000      73.5000      0        2PX1R                                                         
+J14        TopLayer    CR1220-BH                82.0000      77.0000      0        "BATTERY HOLDER COIN 12.5MM SMD"                              
+J15        TopLayer    PCB-009                  118.4750     13.2850      270      "PCB-009 Robu"                                                
+J16        TopLayer    PCB-009                  118.4750     33.2850      270      "PCB-009 Robu"                                                
+J17        TopLayer    PCB-009                  118.4750     53.8650      270      "PCB-009 Robu"                                                
+J18        TopLayer    PCB-009                  118.4750     73.8750      270      "PCB-009 Robu"                                                
+J19        TopLayer    20PX2R_Male_THT_Shrouded 78.7300      50.7300      270      "Connector Header Surface Mount 20 position 0.100" (2.54mm)"  
+L1         TopLayer    IND_1212                 39.6462      79.5202      0        IND_1212                                                      
+M1         TopLayer    E22-XXXT22S              67.4900      10.5000      0        "E22 EByte LoRa Module"                                       
+Q1         TopLayer    MMBT2222                 49.5000      4.5000       270      MMBT2222A                                                     
+Q2         TopLayer    BSS138L                  99.0000      14.5000      180      NMOS                                                          
+Q3         TopLayer    BSS138L                  99.0000      20.5000      180      NMOS                                                          
+Q4         TopLayer    BSS138L                  98.9500      26.5000      180      NMOS                                                          
+Q6         TopLayer    MMBT2222                 105.4000     55.9989      0        MMBT2222A                                                     
+R1         TopLayer    RES_0603                 53.0593      5.2008       90       RES_0603                                                      
+R3         TopLayer    RES_0603                 49.1781      7.3150       0        RES_0603                                                      
+R4         TopLayer    RES_0603                 24.1187      74.7611      0        RES_0603                                                      
+R5         TopLayer    RES_0603                 24.1187      73.2611      180      RES_0603                                                      
+R6         TopLayer    RES_0603                 102.5000     14.5000      90       RES_0603                                                      
+R7         TopLayer    RES_0603                 99.0000      29.5000      180      RES_0603                                                      
+R8         TopLayer    RES_0603                 98.5000      23.5000      180      RES_0603                                                      
+R10        TopLayer    RES_0603                 98.5000      17.5000      180      RES_0603                                                      
+R11        TopLayer    RES_0603                 104.9465     30.2500      90       RES_0603                                                      
+R12        TopLayer    RES_0603                 102.5000     20.5000      90       RES_0603                                                      
+R13        TopLayer    RES_0603                 102.5000     26.5000      90       RES_0603                                                      
+R14        TopLayer    RES_0603                 104.9465     33.4530      270      RES_0603                                                      
+R15        TopLayer    RES_0603                 104.9465     36.4546      90       RES_0603                                                      
+R16        TopLayer    RES_0603                 69.3450      63.5775      270      RES_0603                                                      
+R17        TopLayer    RES_0603                 67.5820      63.5775      270      RES_0603                                                      
+R18        TopLayer    RES_0603                 65.9620      63.5775      270      RES_0603                                                      
+R19        TopLayer    RES_0603                 65.9620      72.5855      270      RES_0603                                                      
+R20        TopLayer    RES_0603                 106.7131     73.5000      270      RES_0603                                                      
+R21        TopLayer    RES_0603                 106.0000     60.0000      270      RES_0603                                                      
+R22        TopLayer    RES_0603                 102.6739     55.7202      270      RES_0603                                                      
+U1         TopLayer    XL4015                   30.0160      66.6016      0        "5A 180KHz 36V Buck DC to DC Converter"                       
+U2         TopLayer    SN75176A                 98.9500      33.4530      0        "RS485/422 Driver IC"                                         
+U3         TopLayer    RV-3028-C7               68.0000      68.0000      0        "IC RTC CLK/CALENDAR I2C 8SON"                                
+U4         TopLayer    MCP2515-ST               100.9000     65.5458      270      "CAN Interface IC"                                            
+U5         TopLayer    TJA1050T                 102.0000     73.5000      0        "CAN Transceiver IC"                                          
+X1         TopLayer    HC-49US                  94.5750      63.4958      270      "CRYSTAL HC-49US 2 Pin"                                       

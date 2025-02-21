@@ -1,0 +1,5 @@
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAPC2012X13L"; UniqueID = "\NFUKDTLH" ("\NFUKDTLH")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=12V0 Pin=J15-7
+Removed Pin From Net: NetName=GND Pin=J15-8
+Removed Pin From Net: NetName=12V0 Pin=J16-7
+Removed Pin From Net: NetName=GND Pin=J16-8
+Change Component Kind : Designator=C18 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=C13 Old Kind=Standard (No BOM) New Kind=Standard
+Added Pin To Net: NetName=GND Pin=J15-7
+Added Pin To Net: NetName=12V0 Pin=J15-8
+Added Pin To Net: NetName=GND Pin=J16-7
+Added Pin To Net: NetName=12V0 Pin=J16-8

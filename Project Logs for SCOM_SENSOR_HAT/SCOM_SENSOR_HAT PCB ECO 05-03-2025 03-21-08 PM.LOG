@@ -1,0 +1,94 @@
+Removed Member From Class: ClassName=LORA Member=C1
+Removed Member From Class: ClassName=LORA Member=C4
+Removed Member From Class: ClassName=LORA Member=C6
+Removed Member From Class: ClassName=POWER Member=C9
+Removed Member From Class: ClassName=POWER Member=C10
+Removed Member From Class: ClassName=RS485 Member=C10
+Removed Member From Class: ClassName=CAN Member=C12
+Removed Member From Class: ClassName=TIMER Member=C17
+Removed Member From Class: ClassName=TIMER Member=J1
+Removed Member From Class: ClassName=LORA Member=R1
+Removed Member From Class: ClassName=RS485 Member=R2
+Removed Member From Class: ClassName=POWER Member=R3
+Removed Member From Class: ClassName=CAN Member=R12
+Removed Member From Class: ClassName=CAN Member=R13
+Removed Member From Class: ClassName=TIMER Member=R14
+Removed Member From Class: ClassName=CAN Member=R17
+Removed Member From Class: ClassName=TIMER Member=U4
+Removed Member From Class: ClassName=C1_Nets Member=NetC8_1
+Removed Member From Class: ClassName=C2_Nets Member=NetC8_1
+Removed Member From Class: ClassName=C3_Nets Member=NetC8_1
+Removed Member From Class: ClassName=C4_Nets Member=NetC8_1
+Removed Member From Class: ClassName=J13_Nets Member=NetC8_1
+Removed Member From Class: ClassName=U1_Nets Member=NetC8_1
+Removed Member From Class: ClassName=J7_Nets Member=NetJ5_4
+Removed Member From Class: ClassName=J4_Nets Member=NetJ8_4
+Removed Member From Class: ClassName=J16_Nets Member=NetJ15_2
+Removed Member From Class: ClassName=J16_Nets Member=NetJ15_4
+Removed Member From Class: ClassName=J16_Nets Member=NetJ15_5
+Removed Member From Class: ClassName=J16_Nets Member=NetJ15_S3
+Removed Member From Class: ClassName=J16_Nets Member=NetJ15_S6
+Removed Member From Class: ClassName=J15_Nets Member=NetJ16_1
+Removed Member From Class: ClassName=J15_Nets Member=NetJ16_S2
+Removed Member From Class: ClassName=J15_Nets Member=NetJ16_S5
+Removed Member From Class: ClassName=U4_Nets Member=NetU3_5
+Removed Member From Class: ClassName=U3_Nets Member=NetU5_1
+Removed Member From Class: ClassName=U4_Nets Member=NetU5_1
+Added Member To Class: ClassName=POWER Member=Component C2 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C4 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component C5 ERP_102-2
+Added Member To Class: ClassName=POWER Member=Component C7 MLCC_0805
+Added Member To Class: ClassName=LORA Member=Component C8 MLCC_0805
+Added Member To Class: ClassName=LORA Member=Component C10 MLCC_0805
+Added Member To Class: ClassName=LORA Member=Component C11 MLCC_0805
+Added Member To Class: ClassName=RS485 Member=Component C13 VY1
+Added Member To Class: ClassName=CAN Member=Component C14 MLCC_0805
+Added Member To Class: ClassName=CAN Member=Component C16 MLCC_0805
+Added Member To Class: ClassName=CAN Member=Component C18 VY1
+Added Member To Class: ClassName=TIMER Member=Component C19 MLCC_0805
+Added Member To Class: ClassName=TIMER Member=Component C20 MLCC_0805
+Added Member To Class: ClassName=POWER Member=Component J4 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J5 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J6 20PX2R_M
+Added Member To Class: ClassName=POWER Member=Component J7 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J8 6PX1R_M
+Added Member To Class: ClassName=POWER Member=Component J13 2PX1R
+Added Member To Class: ClassName=RS485 Member=Component J15 ERP_148-3
+Added Member To Class: ClassName=TIMER Member=Component J19 CR1220-BH
+Added Member To Class: ClassName=POWER Member=Component R1 ERP_101-1
+Added Member To Class: ClassName=LORA Member=Component R3 ERP_101-1
+Added Member To Class: ClassName=LORA Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=RS485 Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=RS485 Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=RS485 Member=Component R11 ERP_101-1
+Added Member To Class: ClassName=RS485 Member=Component R12 ERP_101-1
+Added Member To Class: ClassName=RS485 Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=CAN Member=Component R14 ERP_101-1
+Added Member To Class: ClassName=CAN Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=CAN Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=TIMER Member=Component R17 ERP_101-1
+Added Member To Class: ClassName=TIMER Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=TIMER Member=Component R20 ERP_101-1
+Added Member To Class: ClassName=CAN Member=Component U3 MCP2515
+Added Member To Class: ClassName=TIMER Member=Component U5 RV-3028-C7
+Added Member To Class: ClassName=C1_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=C2_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=C3_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=C4_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=J13_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=U1_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=J4_Nets Member=Wire NetJ4_4
+Added Member To Class: ClassName=J7_Nets Member=Wire NetJ7_4
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_1
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_S1
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_S2
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ15_S2
+Added Member To Class: ClassName=J15_Nets Member=Wire NetJ15_S5
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ16_2
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ16_4
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ16_5
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ16_S3
+Added Member To Class: ClassName=J16_Nets Member=Wire NetJ16_S6
+Added Member To Class: ClassName=U3_Nets Member=Wire NetU3_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU3_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetU4_5
